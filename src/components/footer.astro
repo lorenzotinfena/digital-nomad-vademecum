@@ -1,0 +1,7 @@
+---
+import * as fs from 'fs';
+
+const LICENSE = fs.readFileSync('./LICENSE', 'utf-8').replaceAll('\n', '<br/>');
+---
+<hr/>
+<div set:html={LICENSE}></div>
