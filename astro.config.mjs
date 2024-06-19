@@ -10,6 +10,15 @@ export default defineConfig({
     components: {
       Footer: './src/components/footer.astro'
     },
+    head: [
+    {
+      tag: 'meta',
+      attrs: {
+        name: 'google-site-verification',
+        content: 'MVwP7LlKAwuMiXw6kdr0biaLWjtC-9jpqBaULMa3OM0'
+      },
+    }
+    ],
     title: 'Digital nomad vademecum',
     social: {
       github: 'https://github.com/lorenzotinfena/digital-nomad-vademecum'
