@@ -27,10 +27,10 @@ export default defineConfig({
       label: 'Getting started',
       link: '/'
     }, {
-      label: 'Possessions',
+      label: 'Gear',
       items: [{
-        label: 'tech',
-        link: '/possessions/tech'
+        label: 'Tech',
+        link: '/gear/tech'
       }]
     }]
   })]
