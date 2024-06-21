@@ -1,1 +1,1 @@
-https://digitalnomadvademecum.com
+https://digital-nomad-vademecum.com
