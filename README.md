@@ -1,1 +1,1 @@
-https://lorenzotinfena.github.io/digital-nomad-vademecum/
+https://digitalnomadvademecum.com

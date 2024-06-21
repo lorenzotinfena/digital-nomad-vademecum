@@ -3,8 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://lorenzotinfena.github.io',
-  base: 'digital-nomad-vademecum',
+  site: 'https://digitalnomadvademecum.com',
   integrations: [
     starlight({
     components: {
