@@ -14,14 +14,11 @@ export default defineConfig({
       github: 'https://github.com/lorenzotinfena/digital-nomad-vademecum'
     },
     sidebar: [{
-      label: 'Getting started',
+      label: 'Introduction',
       link: '/'
     }, {
       label: 'Gear',
-      items: [{
-        label: 'Tech',
-        link: '/gear/tech'
-      }]
+      autogenerate: {directory:'gear' }
     }]
   })]
 });
