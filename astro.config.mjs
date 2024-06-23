@@ -9,7 +9,7 @@ export default defineConfig({
     components: {
       Footer: './src/components/footer.astro'
     },
-    title: 'Digital nomad vademecum',
+    title: 'Digital Nomad Vademecum',
     social: {
       github: 'https://github.com/lorenzotinfena/digital-nomad-vademecum'
     },
