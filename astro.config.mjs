@@ -12,7 +12,6 @@ export default defineConfig({
     social: {
       github: 'https://github.com/lorenzotinfena/digital-nomad-vademecum'
     },
-    favicon: '/favicon.ico',
     sidebar: [{
       label: 'Introduction',
       link: '/'
